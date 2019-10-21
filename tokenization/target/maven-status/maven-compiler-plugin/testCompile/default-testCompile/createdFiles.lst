@@ -1,0 +1,7 @@
+zemberek\tokenization\SentenceExtractionComparison$SentenceExtractor.class
+zemberek\tokenization\TurkishSentenceExtractorTest.class
+zemberek\tokenization\TurkishTokenizerTest.class
+zemberek\tokenization\SentenceExtractionComparison.class
+zemberek\tokenization\SpanTest.class
+zemberek\tokenization\SentenceExtractionComparison$OpenNlpAdapter.class
+zemberek\tokenization\SentenceExtractionComparison$TurkishSentenceExtractorAdapter.class

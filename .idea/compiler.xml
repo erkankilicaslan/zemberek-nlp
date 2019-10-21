@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zemberek-apps" />
+        <module name="zemberek-experiment" />
+        <module name="zemberek-morphology" />
+        <module name="zemberek-tokenization" />
+        <module name="zemberek-core" />
+        <module name="zemberek-lang-id" />
+        <module name="zemberek-ner" />
+        <module name="zemberek-grpc-server" />
+        <module name="zemberek-normalization" />
+        <module name="zemberek-lm" />
+        <module name="zemberek-examples" />
+        <module name="zemberek-classification" />
+        <module name="zemberek-all" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zemberek-all" target="1.8" />
+      <module name="zemberek-apps" target="1.8" />
+      <module name="zemberek-classification" target="1.8" />
+      <module name="zemberek-core" target="1.8" />
+      <module name="zemberek-examples" target="1.8" />
+      <module name="zemberek-experiment" target="1.8" />
+      <module name="zemberek-grpc-server" target="1.8" />
+      <module name="zemberek-lang-id" target="1.8" />
+      <module name="zemberek-lm" target="1.8" />
+      <module name="zemberek-morphology" target="1.8" />
+      <module name="zemberek-ner" target="1.8" />
+      <module name="zemberek-nlp" target="1.8" />
+      <module name="zemberek-normalization" target="1.8" />
+      <module name="zemberek-tokenization" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

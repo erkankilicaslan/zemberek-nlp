@@ -1,0 +1,7 @@
+zemberek\normalization\SingleWordSpellCheckerTest.class
+zemberek\normalization\CharacterGraphDecoderTest.class
+zemberek\normalization\BotExperiment.class
+zemberek\normalization\SpellCheckerPerformanceTests.class
+zemberek\normalization\RandomWalkFunctionalTest.class
+zemberek\normalization\deasciifier\TestDeasciifier.class
+zemberek\normalization\TurkishSpellCheckerTest.class

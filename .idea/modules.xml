@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all/zemberek-all.iml" filepath="$PROJECT_DIR$/all/zemberek-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/zemberek-apps.iml" filepath="$PROJECT_DIR$/apps/zemberek-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classification/zemberek-classification.iml" filepath="$PROJECT_DIR$/classification/zemberek-classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/zemberek-core.iml" filepath="$PROJECT_DIR$/core/zemberek-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/zemberek-examples.iml" filepath="$PROJECT_DIR$/examples/zemberek-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiment/zemberek-experiment.iml" filepath="$PROJECT_DIR$/experiment/zemberek-experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc/zemberek-grpc-server.iml" filepath="$PROJECT_DIR$/grpc/zemberek-grpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lang-id/zemberek-lang-id.iml" filepath="$PROJECT_DIR$/lang-id/zemberek-lang-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lm/zemberek-lm.iml" filepath="$PROJECT_DIR$/lm/zemberek-lm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morphology/zemberek-morphology.iml" filepath="$PROJECT_DIR$/morphology/zemberek-morphology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ner/zemberek-ner.iml" filepath="$PROJECT_DIR$/ner/zemberek-ner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zemberek-nlp.iml" filepath="$PROJECT_DIR$/zemberek-nlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/normalization/zemberek-normalization.iml" filepath="$PROJECT_DIR$/normalization/zemberek-normalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokenization/zemberek-tokenization.iml" filepath="$PROJECT_DIR$/tokenization/zemberek-tokenization.iml" />
+    </modules>
+  </component>
+</project>

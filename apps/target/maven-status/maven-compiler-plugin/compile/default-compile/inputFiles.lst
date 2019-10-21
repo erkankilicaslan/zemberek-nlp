@@ -1,0 +1,17 @@
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ApplicationRunner.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ner\FindNamedEntities.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ConsoleApp.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\grpc\StartGrpcServer.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\corpus\PreprocessTurkishCorpus.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\fasttext\TrainClassifier.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ner\EvaluateNer.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\lm\GenerateVocabulary.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\morphology\MorphologyConsole.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\lm\CompressLm.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ner\NerAppBase.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\corpus\RemoveDuplicateLines.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\fasttext\FastTextAppBase.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\ner\TrainNerModel.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\fasttext\EvaluateClassifier.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\fasttext\ClassificationConsole.java
+C:\Users\VKT-ERKANK\Documents\GitHub\zemberek-nlp\apps\src\main\java\zemberek\apps\fasttext\GenerateWordVectors.java
